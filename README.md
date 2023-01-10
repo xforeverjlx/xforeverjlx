@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Johann 👋
+I'm a data scientist who is passionate about leveraging ML for real world applications. 
 - 🔭 I’m currently working on a math formula PDF search engine for Arxiv papers
 
 ## My Skill Set  
